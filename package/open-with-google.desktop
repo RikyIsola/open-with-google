@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=0.1
+Type=Application
+Categories=Utility;
+Terminal=false
+Exec=/usr/bin/open-with-google %f
+Name=Open with Google Docs
+Icon=/usr/share/icons/hicolor/256x256/open-with-google.png
+MimeType=application/vnd.ms-powerpoint;application/vnd.openxmlformats-officedocument.presentationml.presentation;application/msword;application/vnd.openxmlformats-officedocument.wordprocessingml.document;application/vnd.ms-excel;application/vnd.openxmlformats-officedocument.spreadsheetml.sheet

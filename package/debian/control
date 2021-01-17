@@ -9,4 +9,4 @@ Homepage: https://github.com/RikyIsola/Among-us-linux
 Package: open-with-google
 Architecture: any
 Description: Utility program to open Office files in Google Docs
-Depends: coreutils=8.32-3ubuntu1, python3, zenity
+Depends: coreutils, python3.8, zenity

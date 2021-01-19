@@ -1,5 +1,5 @@
-open-with-google (0.1.1) groovy; urgency=low
+open-with-google (0.2.0) groovy; urgency=low
 
-  * "First release"
+  * "Bug fix and add support for Google Drive files"
 
- -- Riccardo Isola <riky.isola@gmail.com>  Sat, 16 Jan 2021 19:00:00 +0000
+ -- Riccardo Isola <riky.isola@gmail.com>  Tue, 19 Jan 2021 19:00:00 +0000
